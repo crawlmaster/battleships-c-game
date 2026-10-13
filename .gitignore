@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# packed archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# large testing suite
+tasks/
